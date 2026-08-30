@@ -2156,9 +2156,9 @@ w3lib==2.3.1 \
     --hash=sha256:5c8ac02a3027576174c2b61eb9a2170ba1b197cae767080771b6f1febda249a4 \
     --hash=sha256:9ccd2ae10c8c41c7279cd8ad4fe65f834be894fe7bfdd7304b991fd69325847b
     # via requests-html
-wagtail==6.3.5 \
-    --hash=sha256:142fb81f4040ddc22d9b600fac33c62e6a65cef0393919d0cb171941e10c41cd \
-    --hash=sha256:ff3051159da6864c40b2fc564f2016d8d6916ad9ef7964ee18f8d83cc518a3a0
+wagtail==7.0.9 \
+    --hash=sha256:1f72a023c2aa47c2995188955e3bd3134dfeb019b3abbdacdd9d6c96be7d3d49 \
+    --hash=sha256:93c41a52f4f440de5016a53af857a42f05e742608692087e39363a4da9b36c36
     # via recoco
 wcmatch==8.5.2 \
     --hash=sha256:17d3ad3758f9d0b5b4dedc770b65420d4dac62e680229c287bf24c9db856a478 \
