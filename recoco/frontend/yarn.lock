@@ -1588,10 +1588,15 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@tiptap/core@^2.0.0-beta.218", "@tiptap/core@^2.14.0":
+"@tiptap/core@^2.14.0":
   version "2.14.0"
   resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-2.14.0.tgz#9a0ffd500cc720194916475506292006d2cb69c3"
   integrity sha512-MBSMzGYRFlwYCocvx3dU7zpCBSDQ0qWByNtStaEzuBUgzCJ6wn2DP/xG0cMcLmE3Ia0VLM4nwbLOAAvBXOtylA==
+
+"@tiptap/core@^3.30.4":
+  version "3.30.4"
+  resolved "https://registry.yarnpkg.com/@tiptap/core/-/core-3.30.4.tgz#9e0847c5f4dd53750ae3accc6b83223e37f693b3"
+  integrity sha512-V9yKuUfV8qC9WBrnVxkFWmYLBomc3d1CwXoFSjED5DRu5q2oyxv07F+jOJSRogJAY+feHjuxvjhixwxeHm2DXQ==
 
 "@tiptap/extension-blockquote@^2.14.0":
   version "2.14.0"
